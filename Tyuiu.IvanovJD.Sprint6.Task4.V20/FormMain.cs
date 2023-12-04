@@ -51,7 +51,7 @@ namespace Tyuiu.IvanovJD.Sprint6.Task4.V20
             }
             catch
             {
-                MessageBox.Show("Введены неверные данные", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Введены неверные данные ", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
